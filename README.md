@@ -1,6 +1,6 @@
-# Data Structure Algorithm
+# Data Structures & Algorithms
 
-This repository contains solutions to various problems related to Data Structures and Algorithms (DSA). The primary goal of this repository is to enhance problem-solving skills and to provide a comprehensive understanding of fundamental computer science concepts.
+This repository contains solutions to various problems related to Data Structures & Algorithms (DSA). The primary goal of this repository is to enhance problem-solving skills and to provide a comprehensive understanding of fundamental computer science concepts.
 
 ## Table of Contents
 
@@ -26,15 +26,7 @@ The solutions aim to demonstrate efficient algorithms and provide explanations f
 
 ## Languages
 
-The problems and solutions are written in various programming languages, including:
-
-- Python
-- Java
-- C++
-- JavaScript
-- [Additional languages can be added as needed]
-
-Feel free to explore the code in the language of your choice!
+The problems and solutions are written in java programming languages.
 
 ## Problem Categories
 
@@ -46,8 +38,6 @@ The problems are organized into categories based on their type and complexity. S
 4. **Data Structures** (e.g., Arrays, Linked Lists, Trees)
 5. **Algorithms** (e.g., Sorting, Searching, Greedy, Dynamic Programming)
 
-You can navigate through different folders based on problem difficulty or type.
-
 ## How to Contribute
 
 Contributions are welcome! If you'd like to contribute to this repository, please follow these steps:
@@ -57,8 +47,6 @@ Contributions are welcome! If you'd like to contribute to this repository, pleas
 3. Make your changes and commit them (`git commit -am 'Add new solution'`).
 4. Push to your branch (`git push origin feature-name`).
 5. Create a Pull Request.
-
-Please ensure your code follows best practices and includes comments explaining the logic.
 
 ## License
 

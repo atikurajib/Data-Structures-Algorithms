@@ -5,8 +5,8 @@ This repository contains solutions to various problems related to Data Structure
 ## Table of Contents
 
 - [About](#about)
-- [Languages](#languages)
 - [Problem Categories](#problem-categories)
+- [Language](#language)
 
 ## About
 
@@ -22,10 +22,6 @@ This repository includes implementations and solutions for a variety of DSA prob
 
 The solutions aim to demonstrate efficient algorithms and provide explanations for their implementation.
 
-## Languages
-
-The problems and solutions are written in java programming languages.
-
 ## Problem Categories
 
 The problems are organized into categories based on their type and complexity. Some of the common categories include:
@@ -35,3 +31,7 @@ The problems are organized into categories based on their type and complexity. S
 3. **Hard**  
 4. **Data Structures** (e.g., Arrays, Linked Lists, Trees)
 5. **Algorithms** (e.g., Sorting, Searching, Greedy, Dynamic Programming)
+
+## Language
+
+The problems and solutions are written in **Java** programming language.

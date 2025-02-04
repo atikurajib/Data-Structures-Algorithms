@@ -34,4 +34,4 @@ The problems are organized into categories based on their type and complexity. S
 
 ## Language
 
-The problems and solutions are written in **Java and Python**  programming language.
+The problems and solutions are written in **Java** programming language.

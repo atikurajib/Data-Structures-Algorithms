@@ -4,17 +4,21 @@ This repository contains solutions to various problems related to **Data Structu
 
 ## Topics
 
-- Arrays
-- Linked Lists
-- Stacks and Queues
+- Array
+- Linked List
+- Stack
+- Queue
 - Hash Table
-- Trees
+- Tree
 - Binary Search Tree
 - Heap
-- Graphs
+- Graph
 - Trie
+- Time and Space Complexity
 - Searching Algorithm
 - Sorting Algorithm
 - Recursion and Backtracking
+- Bit Manipulation
+- Brute Force Algorithm 
 - Greedy Algorithm
 - Dynamic Programming
